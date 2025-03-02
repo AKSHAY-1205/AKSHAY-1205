@@ -2,7 +2,10 @@
 
 ###
 
-<p align="left">I'm Akshay, a Full-Stack Developer.  <br><br>And I work with Deep Learning, Machine Learning, and Computer Vision. 🚀  <br>Always exploring new technologies and building cool stuff! 😃</p>
+<p align="left">I'm Akshay  <br><br>And I work with Deep Learning, Machine Learning, and Computer Vision. 🚀  <br>AI Engineer | Full-Stack Developer
+
+Passionate about Deep Learning, Machine Learning, and Computer Vision. 🚀
+Always exploring new technologies and building cool stuff! 😃</p>
 
 ###
 
